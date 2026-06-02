@@ -51,18 +51,23 @@ The main goals of the report are:
   - Top 10 Products by Profit
   - Product Category Distribution
   - Product Performance Analysis
+  - Sales Revenue and Average Unit Price by Product Category
   - Monthly Quantity Sold vs Target
 
 - **Customer Overview**
 
   Customer and geographical analysis:
   - Average Customer Age
-  - Customer Gender Distribution
   - Total Female Customers
   - Total Male Customers
   - Most Profitable Products by Region
   - Profit by Geography
   - Average Order Value Analysis
-  - Sales and Profit by Location
 
 **Key Insights**
+
+- Bikes generate the highest sales revenue among all product categories.
+- Sales revenue shows consistent growth over the analyzed period.
+- Product profitability varies significantly across categories and individual products.
+- Customer purchasing behavior differs by demographic group and geographic region.
+- California represents one of the strongest-performing markets in terms of sales and profitability.
